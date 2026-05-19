@@ -11,7 +11,6 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=citarreikee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=c9a96e&text_color=e0d5c1" height="140" />
-<img src="https://streak-stats.demolab.com/?user=citarreikee&theme=dark&hide_border=true&background=0d1117&ring=c9a96e&fire=c9a96e&currStreakLabel=c9a96e" height="140" />
 
 </div>
 

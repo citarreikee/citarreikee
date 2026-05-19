@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&width=500&lines=Guild+Master+of+the+Adventurer's+Guild;Building+spatial+intelligence...;Employment+is+a+relic.)](https://git.io/typing-svg)
-
-<br>
+### Guild Master of the Adventurer's Guild
 
 [![GitHub](https://img.shields.io/badge/GitHub-citarreikee-181717?logo=github)](https://github.com/citarreikee)
 [![AGuild](https://img.shields.io/badge/AGuild-Quest_Board-gold)](https://github.com/citarreikee/AGuild)
@@ -51,14 +49,6 @@ If you're here from the Guild and don't want to share your contact publicly — 
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/citarreikee/citarreikee/main/assets/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/citarreikee/citarreikee/main/assets/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/citarreikee/citarreikee/main/assets/snake-dark.svg" />
-</picture>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=citarreikee&theme=github-dark&bg_color=0d1117&hide_border=true&color=c9a96e&line=c9a96e&point=c9a96e" />
 

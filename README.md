@@ -4,7 +4,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-citarreikee-181717?logo=github)](https://github.com/citarreikee)
 [![AGuild](https://img.shields.io/badge/AGuild-Quest_Board-gold)](https://github.com/citarreikee/AGuild)
-[![Stars](https://img.shields.io/github/stars/citarreikee?style=social)](https://github.com/citarreikee)
 <img src="https://komarev.com/ghpvc/?username=citarreikee&label=Visitors&color=c9a96e&style=flat" alt="views" />
 
 <br>
@@ -44,14 +43,6 @@ Founded the [Adventurer's Guild](https://github.com/citarreikee/AGuild) — a de
 Find me on [GitHub](https://github.com/citarreikee) or through the [Guild Discussions](https://github.com/citarreikee/AGuild/discussions).
 
 If you're here from the Guild and don't want to share your contact publicly — I serve as intermediary. Mention `via Jojo` in your quest post or comment and I'll make the introduction.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=citarreikee&theme=github-dark&bg_color=0d1117&hide_border=true&color=c9a96e&line=c9a96e&point=c9a96e" />
-
-</div>
 
 ---
 

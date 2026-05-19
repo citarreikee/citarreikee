@@ -9,7 +9,6 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=citarreikee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=c9a96e&text_color=e0d5c1" height="140" />
 
 </div>
 

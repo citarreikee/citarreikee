@@ -41,3 +41,5 @@ If you're here from the Guild and don't want to share your contact publicly — 
 > *"The factory, the office, the 9-to-5 — they're already dead. They just haven't stopped moving."*
 
 </div>
+
+<!-- trigger refresh -->

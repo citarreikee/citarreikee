@@ -26,6 +26,10 @@ Founded the [Adventurer's Guild](https://github.com/citarreikee/AGuild) — a de
 
 ### Contact
 
+<img src="https://raw.githubusercontent.com/citarreikee/visible_manus/main/contact.png" alt="Contact QR" width="180" />
+
+<br>
+
 Find me on [GitHub](https://github.com/citarreikee) or through the [Guild Discussions](https://github.com/citarreikee/AGuild/discussions).
 
 If you're here from the Guild and don't want to share your contact publicly — I serve as intermediary. Mention `via Jojo` in your quest post or comment and I'll make the introduction.
